@@ -1,0 +1,6 @@
+class 클래스 이름{
+    static 속성 = 값
+    static 메소드(){
+        
+    }
+}
